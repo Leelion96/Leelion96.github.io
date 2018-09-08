@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call me Sam</title>
+    <link>https://Leelion96.github.io/</link>
+    <description>Recent content on Call me Sam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 13:56:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://Leelion96.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>6666</title>
+      <link>https://Leelion96.github.io/posts/my-firstpost/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>https://Leelion96.github.io/posts/my-firstpost/</guid>
+      <description>6666666666666666</description>
+    </item>
+    
+  </channel>
+</rss>
